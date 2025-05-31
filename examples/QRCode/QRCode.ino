@@ -9,7 +9,7 @@
  *
  */
 
-#include "qrcode.h"
+#include "qrcode_gen.h"
 
 void setup() {
     Serial.begin(115200);
